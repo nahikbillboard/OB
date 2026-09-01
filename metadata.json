@@ -1,0 +1,7 @@
+{
+  "name": "DocuMind - Local Vector RAG Chatbot",
+  "description": "Privacy-focused offline & AI chatbot that answers questions through local document vector search supporting PDF, TXT, and DOCX files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
